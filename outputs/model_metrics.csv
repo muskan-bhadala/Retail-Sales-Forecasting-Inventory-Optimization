@@ -1,0 +1,2 @@
+model,test_rows,mae,rmse,r2,residual_std,train_rows,test_start_date,test_end_date
+RandomForestRegressor,450,6.5883673217262935,8.435774862152808,0.8767913609762835,8.364349947629606,10500,2025-12-01,2025-12-30
